@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000957880975",
+    "project_id": "flutter-firebase-juju",
+    "storage_bucket": "flutter-firebase-juju.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000957880975:android:cdb984c08c0841933e1efa",
+        "android_client_info": {
+          "package_name": "com.jujuranger.firebaseApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000957880975-64u6b10bhfh9iisgjta7ebq2q23k8pek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jujuranger.firebaseApp",
+            "certificate_hash": "3778a88410ea0220f0234b6a746da3365c93142f"
+          }
+        },
+        {
+          "client_id": "1000957880975-f5v43bmmuefs60fmsjt95or2uosq4t54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZkTvl6dKrRDYxwv2pRN5QXMZlZEe1xDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000957880975-f5v43bmmuefs60fmsjt95or2uosq4t54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
